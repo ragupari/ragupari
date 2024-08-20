@@ -2,4 +2,4 @@
 
 ### 📫 How to reach me
 - **Email:** [pariunimora@gmail.com](mailto:pariunimora@gmail.com)
-- **LinkedIn:** [Parishith Ragumar](www.parishith.live)
+- **LinkedIn:** [Parishith Ragumar](http://parishith.live)
