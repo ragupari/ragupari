@@ -2,8 +2,10 @@
 
 <div style="background-color:#e0f7fa; border-left: 6px solid #007BFF; padding: 15px; border-radius: 5px; font-family: sans-serif;">
   <p>
-    🚀 <strong>Welcome to my GitHub!</strong><br>
-    I'm currently a <b>Computer Science and Engineering Undergraduate at University of Moratuwa, Sri Lanka 🇱🇰</b><br>
+    🚀 <strong>Welcome to my GitHub!</strong><br><br>
+    "Just a boy in his 20s, fueled by caffeine, trying to figure out his life, his code, and why everything happens for a reason —
+and that reason is often a missing semicolon. Debugging both his code and his existence."<br><br>
+    <b>Computer Science and Engineering Undergraduate at University of Moratuwa, Sri Lanka 🇱🇰</b><br><br>
     I am so much passionate about building impactful tech solutions. Let's connect and collaborate!
   </p>
 </div>
