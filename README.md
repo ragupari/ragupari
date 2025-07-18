@@ -13,7 +13,7 @@ and that reason is often a missing semicolon. Debugging both his code and his ex
 <h2>📫 How to Reach Me</h2>
 
 <p>
-  🌐 <strong>Portfolio:</strong> <a href="http://ragupari.github.io">ragupari.github.io</a><br>
+  🌐 <strong>Portfolio:</strong> <a href="www.parishith.me">www.parishith.me</a><br>
   📧 <strong>Email:</strong> <a href="mailto:pariunimora@gmail.com">pariunimora@gmail.com</a><br>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/rp07official">Parishith Ragumar</a>
 </p>
