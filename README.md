@@ -19,5 +19,7 @@ and that reason is often a missing semicolon. Debugging both his code and his ex
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragupari&show_icons=true&theme=tokyonight" alt="Parishith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragupari&show_icons=true&theme=tokyonight&cache_bust=1" alt="Parishith's GitHub Stats" />
 </p>
+
+
